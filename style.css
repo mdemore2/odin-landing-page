@@ -29,7 +29,7 @@ ul {
     padding: 16px;
     gap: 8px;
     justify-content: space-between;
-    align-items: center;
+    align-items: first baseline;
 }
 
 .logo {
@@ -44,11 +44,12 @@ ul {
     flex: 1;
     color: #e5e7eb;
     font-size: 18px;
-    gap: 16px;
+    gap: 32px;
+    justify-content: flex-end;
 }
 
 li {
-    flex: 1;
+    flex: none;
 }
 
 .footer {
@@ -60,7 +61,7 @@ li {
     text-align: center;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items:last baseline;
 }
 
 .intro{
