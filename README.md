@@ -18,6 +18,6 @@ Finally, feel free to substitute your own content into this design. The images h
 
 - Photo by Jahoo Clouseau: <https://www.pexels.com/photo/man-using-parachute-382177/>
 - Photo by Pixabay: <https://www.pexels.com/photo/person-standing-under-a-rock-formation-on-a-starry-night-33688/>
-- Photo by Tima Miroshnichenko: <https://www.pexels.com/photo/a-person-playing-game-using-virtual-reality-glasses-5213138/>
+- Photo by Tima Miroshnichenko: <https://www.pexels.com/photo/woman-serving-food-to-a-gamer-5698363/>
 - Photo by Vishnu R Nair: <https://www.pexels.com/photo/people-at-concert-1105666/>
 - Photo by Pixabay: <https://www.pexels.com/photo/sunset-men-sunrise-jogging-39308/>
